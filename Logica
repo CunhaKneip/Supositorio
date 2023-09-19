@@ -1,0 +1,97 @@
+artista("Bruno Mars").
+artista("Slowdive").
+artista("Os Mutantes").
+
+/*Bruno Mars*/
+album("24k Magic (2016)","Bruno Mars").
+album("Doo-woops & Hooligans (2010)","Bruno Mars").
+/* Slowdive*/
+album("everything is alive (2023)","Slowdive").
+album("Slowdive (2017)","Slowdive").
+/* Os mutantes*/
+album("Jardim elétrico (1971)","Os Mutantes").
+album("Os Mutantes (1968)","Os Mutantes").
+
+
+
+
+
+
+/*Bruno Mars*/
+
+musica("24k Magic","24k Magic (2016)").
+musica("That's what like","24k Magic (2016)").
+musica("Finesse","24k Magic (2016)").
+musica("Versace on the floor","24k Magic (2016)").
+
+musica("Grenade","Doo-woops & Hooligans (2010)").
+musica("The lazy song","Doo-woops & Hooligans (2010)").
+musica("Talk to the moon","Doo-woops & Hooligans (2010)").
+musica("Marry you","Doo-woops & Hooligans (2010)").
+
+/* Slowdive*/
+musica("alife","everything is alive").
+musica("kisses","everything is alive").
+musica("shanty","everything is alive").
+
+musica("Slomo","Slowdive (2017)").
+musica("Sugar for the pill","Slowdive (2017)").
+musica("Falling ashes","Slowdive (2017)").
+
+/*Os Mutantes*/
+
+musica("El Justicero","Jardim elétrico (1971)").
+musica("Virginia","Jardim elétrico (1971)").
+musica("Top Top","Jardim elétrico (1971)").
+
+musica("Panis et Circenses","Os Mutantes (1978)").
+musica("A minha menina","Os Mutantes (1978)").
+musica("Bat macumba","Os Mutantes (1978)").
+
+
+
+
+
+
+
+ 
+/*Slowdive*/
+genero("Pop","24k Magic (2016)").
+genero("Funk","24k Magic (2016)").
+genero("R&B","24k Magic (2016)").
+
+       
+genero("Pop","Doo-woops & Hooligans (2010)").
+genero("Reggae","Doo-woops & Hooligans (2010)").
+genero("R&B","Doo-woops & Hooligans (2010)").
+
+/*Slowdive*/
+genero("Rock","everything is alive (2023)").
+genero("Shoegaze","everything is alive (2023)").
+genero("Eletrônica","everything is alive (2023)").
+
+
+genero("Rock","Slowdive (2010)").
+genero("Shoegaze","Slowdive (2010)").
+genero("Dream pop","Slowdive (2010)").
+
+/*Os mutantes*/
+
+genero("Rock psicodélico","Jardim elétrico (1971)").
+genero("Rock","Jardim elétrico (1971)").
+
+genero("Rock psicodélico","Os Mutantes (1978)").
+genero("Rock","Os Mutantes (1978)").
+genero("Pop rock","Os Mutantes (1978)").
+
+
+
+
+
+
+
+
+
+
+musica_de(X, Z) :-	musica(X, Y), album(Y, Z).
+genero_de(X,Z) :- 
