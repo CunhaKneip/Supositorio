@@ -1,0 +1,464 @@
+/* Artistas */
+artista("Bruno Mars").
+artista("Slowdive").
+artista("Os Mutantes").
+artista("Metallica").
+artista("Taylor Swift").
+artista("Queen").
+artista("Adele").
+artista("Ed Sheeran").
+artista("Beyoncé").
+artista("Michael Jackson").
+artista("Rihanna").
+artista("Coldplay").
+artista("Eminem").
+artista("Katy Perry").
+artista("Drake").
+artista("Ariana Grande").
+artista("The Beatles").
+artista("Elton John").
+artista("Madonna").
+artista("U2").
+
+/* Álbuns */
+/* Bruno Mars */
+album("24k Magic (2016)","Bruno Mars").
+album("Doo-woops & Hooligans (2010)","Bruno Mars").
+
+/* Slowdive */
+album("everything is alive (2023)","Slowdive").
+album("Slowdive (2017)","Slowdive").
+
+/* Os Mutantes */
+album("Jardim elétrico (1971)","Os Mutantes").
+album("Os Mutantes (1968)","Os Mutantes").
+
+/* Metallica */
+album("Master of Puppets (1986)","Metallica").
+album("Metallica (1991)","Metallica").
+
+/* Taylor Swift */
+album("Fearless (Taylor's Version) (2021)","Taylor Swift").
+album("Red (Taylor's Version) (2021)","Taylor Swift").
+
+/* Queen */
+album("A Night at the Opera (1975)","Queen").
+album("The Game (1980)","Queen").
+
+/* Adele */
+album("21 (2011)","Adele").
+album("25 (2015)","Adele").
+
+/* Ed Sheeran */
+album("÷ (Divide) (2017)","Ed Sheeran").
+album("x (Multiply) (2014)","Ed Sheeran").
+
+/* Beyoncé */
+album("Lemonade (2016)","Beyoncé").
+album("Beyoncé (2013)","Beyoncé").
+
+/* Michael Jackson */
+album("Thriller (1982)","Michael Jackson").
+album("Bad (1987)","Michael Jackson").
+
+/* Rihanna */
+album("Anti (2016)","Rihanna").
+album("Loud (2010)","Rihanna").
+
+/* Coldplay */
+album("A Head Full of Dreams (2015)","Coldplay").
+album("Parachutes (2000)","Coldplay").
+
+/* Eminem */
+album("The Marshall Mathers LP (2000)","Eminem").
+album("Recovery (2010)","Eminem").
+
+/* Katy Perry */
+album("Teenage Dream (2010)","Katy Perry").
+album("Witness (2017)","Katy Perry").
+
+/* Drake */
+album("Scorpion (2018)","Drake").
+album("Take Care (2011)","Drake").
+
+/* Ariana Grande */
+album("Sweetener (2018)","Ariana Grande").
+album("Thank U, Next (2019)","Ariana Grande").
+
+/* The Beatles */
+album("Sgt. Pepper's Lonely Hearts Club Band (1967)","The Beatles").
+album("Abbey Road (1969)","The Beatles").
+
+/* Elton John */
+album("Goodbye Yellow Brick Road (1973)","Elton John").
+album("Rocket Man: Number Ones (2007)","Elton John").
+
+/* Madonna */
+album("Like a Virgin (1984)","Madonna").
+album("Ray of Light (1998)","Madonna").
+
+/* U2 */
+album("The Joshua Tree (1987)","U2").
+album("Achtung Baby (1991)","U2").
+
+
+/* Bruno Mars */
+dataLancamento("2016", "24k Magic (2016)").
+dataLancamento("2010", "Doo-woops & Hooligans (2010)").
+
+/* Slowdive */
+dataLancamento("2023", "everything is alive (2023)").
+dataLancamento("2017", "Slowdive (2017)").
+
+/* Os Mutantes */
+dataLancamento("1971", "Jardim elétrico (1971)").
+dataLancamento("1968", "Os Mutantes (1968)").
+
+/* Metallica */
+dataLancamento("1986", "Master of Puppets (1986)").
+dataLancamento("1991", "Metallica (1991)").
+
+/* Taylor Swift */
+dataLancamento("2021", "Fearless (Taylor's Version) (2021)").
+dataLancamento("2021", "Red (Taylor's Version) (2021)").
+
+/* Queen */
+dataLancamento("1975", "A Night at the Opera (1975)").
+dataLancamento("1980", "The Game (1980)").
+
+/* Adele */
+dataLancamento("2011", "21 (2011)").
+dataLancamento("2015", "25 (2015)").
+
+/* Ed Sheeran */
+dataLancamento("2017", "÷ (Divide) (2017)").
+dataLancamento("2014", "x (Multiply) (2014)").
+
+/* Beyoncé */
+dataLancamento("2016", "Lemonade (2016)").
+dataLancamento("2013", "Beyoncé (2013)").
+
+/* Michael Jackson */
+dataLancamento("1982", "Thriller (1982)").
+dataLancamento("1987", "Bad (1987)").
+
+/* Rihanna */
+dataLancamento("2016", "Anti (2016)").
+dataLancamento("2010", "Loud (2010)").
+
+/* Coldplay */
+dataLancamento("2015", "A Head Full of Dreams (2015)").
+dataLancamento("2000", "Parachutes (2000)").
+
+/* Eminem */
+dataLancamento("2000", "The Marshall Mathers LP (2000)").
+dataLancamento("2010", "Recovery (2010)").
+
+/* Katy Perry */
+dataLancamento("2010", "Teenage Dream (2010)").
+dataLancamento("2017", "Witness (2017)").
+
+/* Drake */
+dataLancamento("2018", "Scorpion (2018)").
+dataLancamento("2011", "Take Care (2011)").
+
+/* Ariana Grande */
+dataLancamento("2018", "Sweetener (2018)").
+dataLancamento("2019", "Thank U, Next (2019)").
+
+/* The Beatles */
+dataLancamento("1967", "Sgt. Pepper's Lonely Hearts Club Band (1967)").
+dataLancamento("1969", "Abbey Road (1969)").
+
+/* Elton John */
+dataLancamento("1973", "Goodbye Yellow Brick Road (1973)").
+dataLancamento("2007", "Rocket Man: Number Ones (2007)").
+
+/* Madonna */
+dataLancamento("1984", "Like a Virgin (1984)").
+dataLancamento("1998", "Ray of Light (1998)").
+
+/* U2 */
+dataLancamento("1987", "The Joshua Tree (1987)").
+dataLancamento("1991", "Achtung Baby (1991)").
+
+
+/* Músicas */
+/*Bruno Mars*/
+
+musica("24k Magic","24k Magic (2016)").
+musica("That's what like","24k Magic (2016)").
+musica("Finesse","24k Magic (2016)").
+musica("Versace on the floor","24k Magic (2016)").
+
+musica("Grenade","Doo-woops & Hooligans (2010)").
+musica("The lazy song","Doo-woops & Hooligans (2010)").
+musica("Talk to the moon","Doo-woops & Hooligans (2010)").
+musica("Marry you","Doo-woops & Hooligans (2010)").
+
+/* Slowdive*/
+musica("alife","everything is alive").
+musica("kisses","everything is alive").
+musica("shanty","everything is alive").
+
+musica("Slomo","Slowdive (2017)").
+musica("Sugar for the pill","Slowdive (2017)").
+musica("Falling ashes","Slowdive (2017)").
+
+/*Os Mutantes*/
+
+musica("El Justicero","Jardim elétrico (1971)").
+musica("Virginia","Jardim elétrico (1971)").
+musica("Top Top","Jardim elétrico (1971)").
+
+musica("Panis et Circenses","Os Mutantes (1978)").
+musica("A minha menina","Os Mutantes (1978)").
+musica("Bat macumba","Os Mutantes (1978)").
+
+/*Metallica*/
+
+musica("Master of Puppets","Master of Puppets (1986)").
+musica("Battery","Master of Puppets (1986)").
+musica("Disposable Heroes","Master of Puppets (1986)").
+
+musica("Enter the Sandman","Metallica (1991)").
+musica("Nothing else matters","Metallica (1991)").
+musica("The strugle withini","Metallica (1991)").
+
+/* Músicas */
+/* Adele */
+musica("Rolling in the Deep","21 (2011)").
+musica("Someone Like You","21 (2011)").
+musica("Hello","25 (2015)").
+
+/* Ed Sheeran */
+musica("Shape of You","÷ (Divide) (2017)").
+musica("Thinking Out Loud","x (Multiply) (2014)").
+
+/* Beyoncé */
+musica("Formation","Lemonade (2016)").
+musica("Halo","Beyoncé (2013)").
+
+/* Michael Jackson */
+musica("Billie Jean","Thriller (1982)").
+musica("Smooth Criminal","Bad (1987)").
+
+/* Rihanna */
+musica("Diamonds","Anti (2016)").
+musica("We Found Love","Loud (2010)").
+
+/* Coldplay */
+musica("Adventure of a Lifetime","A Head Full of Dreams (2015)").
+musica("Yellow","Parachutes (2000)").
+
+/* Eminem */
+musica("Lose Yourself","The Marshall Mathers LP (2000)").
+musica("Not Afraid","Recovery (2010)").
+
+/* Katy Perry */
+musica("Firework","Teenage Dream (2010)").
+musica("Roar","Witness (2017)").
+
+/* Drake */
+musica("God's Plan","Scorpion (2018)").
+musica("Hotline Bling","Take Care (2011)").
+
+/* Ariana Grande */
+musica("Thank U, Next","Sweetener (2018)").
+musica("7 Rings","Thank U, Next (2019)").
+
+/* The Beatles */
+musica("Lucy in the Sky with Diamonds","Sgt. Pepper's Lonely Hearts Club Band (1967)").
+musica("Come Together","Abbey Road (1969)").
+
+/* Elton John */
+musica("Rocket Man","Goodbye Yellow Brick Road (1973)").
+musica("Can You Feel the Love Tonight","Rocket Man: Number Ones (2007)").
+
+/* Madonna */
+musica("Like a Virgin","Like a Virgin (1984)").
+musica("Frozen","Ray of Light (1998)").
+
+/* U2 */
+musica("With or Without You","The Joshua Tree (1987)").
+musica("One","Achtung Baby (1991)").
+
+
+/* Gêneros */
+genero("Pop","24k Magic (2016)").
+genero("Funk","24k Magic (2016)").
+genero("R&B","24k Magic (2016)").
+
+       
+genero("Pop","Doo-woops & Hooligans (2010)").
+genero("Reggae","Doo-woops & Hooligans (2010)").
+genero("R&B","Doo-woops & Hooligans (2010)").
+
+/*Slowdive*/
+genero("Rock","everything is alive (2023)").
+genero("Shoegaze","everything is alive (2023)").
+genero("Eletrônica","everything is alive (2023)").
+
+
+genero("Rock","Slowdive (2010)").
+genero("Shoegaze","Slowdive (2010)").
+genero("Dream pop","Slowdive (2010)").
+
+/*Os mutantes*/
+
+genero("Rock psicodélico","Jardim elétrico (1971)").
+genero("Rock","Jardim elétrico (1971)").
+
+genero("Rock psicodélico","Os Mutantes (1978)").
+genero("Rock","Os Mutantes (1978)").
+genero("Pop rock","Os Mutantes (1978)").
+
+/*Metallica*/
+
+genero("Heavy Metal","Metallica (1991)").
+genero("Hard rock","Metallica (1991)").
+genero("Trash Metal","Metallica (1991)").
+
+genero("Trash metal","Master of Puppets (1986)").
+genero("Metal progressivo","Master of Puppets (1986)").
+
+/* Gêneros */
+/* Adele */
+genero("Pop", "21 (2011)").
+genero("Pop", "25 (2015)").
+
+/* Ed Sheeran */
+genero("Pop", "÷ (Divide) (2017)").
+genero("Pop", "x (Multiply) (2014)").
+
+/* Beyoncé */
+genero("R&B", "Lemonade (2016)").
+genero("R&B", "Beyoncé (2013)").
+
+/* Michael Jackson */
+genero("Pop", "Thriller (1982)").
+genero("Pop", "Bad (1987)").
+
+/* Rihanna */
+genero("R&B", "Anti (2016)").
+genero("Pop", "Loud (2010)").
+
+/* Coldplay */
+genero("Rock", "A Head Full of Dreams (2015)").
+genero("Rock", "Parachutes (2000)").
+
+/* Eminem */
+genero("Hip-Hop", "The Marshall Mathers LP (2000)").
+genero("Hip-Hop", "Recovery (2010)").
+
+/* Katy Perry */
+genero("Pop", "Teenage Dream (2010)").
+genero("Pop", "Witness (2017)").
+
+/* Drake */
+genero("Hip-Hop", "Scorpion (2018)").
+genero("Hip-Hop", "Take Care (2011)").
+
+/* Ariana Grande */
+genero("Pop", "Sweetener (2018)").
+genero("Pop", "Thank U, Next (2019)").
+
+/* The Beatles */
+genero("Rock", "Sgt. Pepper's Lonely Hearts Club Band (1967)").
+genero("Rock", "Abbey Road (1969)").
+
+/* Elton John */
+genero("Pop", "Goodbye Yellow Brick Road (1973)").
+genero("Pop", "Rocket Man: Number Ones (2007)").
+
+/* Madonna */
+genero("Pop", "Like a Virgin (1984)").
+genero("Pop", "Ray of Light (1998)").
+
+/* U2 */
+genero("Rock", "The Joshua Tree (1987)").
+genero("Rock", "Achtung Baby (1991)").
+
+
+
+/* Artistas que morreram de overdose ou uso de drogas */
+morreu_de("Elvis Presley", "Overdose").
+morreu_de("Whitney Houston", "Overdose").
+morreu_de("Kurt Cobain", "Overdose").
+morreu_de("Amy Winehouse", "Overdose").
+morreu_de("Janis Joplin", "Overdose").
+morreu_de("Jimi Hendrix", "Overdose").
+morreu_de("River Phoenix", "Overdose").
+morreu_de("Chris Farley", "Overdose").
+morreu_de("John Belushi", "Overdose").
+morreu_de("Michael Jackson", "Overdose").
+morreu_de("Prince", "Overdose").
+
+
+
+/* Artistas que morreram de complicações relacionadas à AIDS */
+morreu_de("Freddy Mercury", "AIDS").
+morreu_de("Cazuza", "AIDS").
+morreu_de("Renato Russo", "AIDS").
+morreu_de("Lauro Corona", "AIDS").
+morreu_de("Fernanda Young", "AIDS").
+morreu_de("Cláudio Cavalcanti", "AIDS").
+
+/* Artistas que faleceram por outras causas */
+morreu_de("John Lennon", "Assassinato").
+morreu_de("David Bowie", "Câncer").
+morreu_de("Caio Fernando Abreu", "Complicações médicas").
+
+
+/* Visualizações de álbuns fictícias (valores em inteiros) */
+reproducoes("24k Magic (2016)", 5000000).
+reproducoes("Doo-woops & Hooligans (2010)", 3000000).
+reproducoes("everything is alive (2023)", 1000000).
+reproducoes("Slowdive (2017)", 2000000).
+reproducoes("Jardim elétrico (1971)", 1500000).
+reproducoes("Os Mutantes (1968)", 1200000).
+reproducoes("Master of Puppets (1986)", 2500000).
+reproducoes("Metallica (1991)", 3500000).
+reproducoes("Fearless (Taylor's Version) (2021)", 800000).
+reproducoes("Red (Taylor's Version) (2021)", 900000).
+reproducoes("A Night at the Opera (1975)", 1800000).
+reproducoes("The Game (1980)", 1600000).
+reproducoes("21 (2011)", 7000000).
+reproducoes("25 (2015)", 6000000).
+reproducoes("÷ (Divide) (2017)", 5500000).
+reproducoes("x (Multiply) (2014)", 4500000).
+reproducoes("Lemonade (2016)", 4000000).
+reproducoes("Beyoncé (2013)", 3500000).
+reproducoes("Thriller (1982)", 9000000).
+reproducoes("Bad (1987)", 7500000).
+reproducoes("Anti (2016)", 3000000).
+reproducoes("Loud (2010)", 2800000).
+reproducoes("A Head Full of Dreams (2015)", 3500000).
+reproducoes("Parachutes (2000)", 2000000).
+reproducoes("The Marshall Mathers LP (2000)", 5000000).
+reproducoes("Recovery (2010)", 4500000).
+reproducoes("Teenage Dream (2010)", 4000000).
+reproducoes("Witness (2017)", 3000000).
+reproducoes("Scorpion (2018)", 6000000).
+reproducoes("Take Care (2011)", 3500000).
+reproducoes("Sweetener (2018)", 4000000).
+reproducoes("Thank U, Next (2019)", 4500000).
+reproducoes("Sgt. Pepper's Lonely Hearts Club Band (1967)", 3000000).
+reproducoes("Abbey Road (1969)", 3200000).
+reproducoes("Goodbye Yellow Brick Road (1973)", 2800000).
+reproducoes("Rocket Man: Number Ones (2007)", 2500000).
+reproducoes("Like a Virgin (1984)", 2200000).
+reproducoes("Ray of Light (1998)", 2100000).
+reproducoes("The Joshua Tree (1987)", 3500000).
+reproducoes("Achtung Baby (1991)", 3200000).
+
+
+
+
+
+hit(X) :- reproducoes(X,Y), Y > 1000.
+media_por_artista(X) :- 
+morreu(X) :- morreu_de(X,_).
+artista_da_musica(X, Z) :-	musica(X, Y), album(Y, Z).
+genero_da_musica(X, Z) :- musica(X,Y),genero(Z,Y).
+
